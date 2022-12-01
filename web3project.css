@@ -1,20 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree&family=Roboto:wght@100&family=Rubik&display=swap');
 body{
-
 font-family: 'Rubik', sans-serif;
 font-style: normal;
-
 font-weight: 700;
-
 font-size: 25px;
-
 line-height: 24px;
-
 overflow-y: scroll;
-
 letter-spacing: 0.1px;
-padding: 10px;
-
 }
 div nav{
   display: flex;
